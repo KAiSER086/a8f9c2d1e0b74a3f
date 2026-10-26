@@ -1,0 +1,23 @@
+{
+  "name": "Personal Store",
+  "identifier": "com.kaiser.personalstore",
+  "subtitle": "Fladder & Dan's Workshop Apps",
+  "github_releases": [
+    {
+      "name": "Fladder",
+      "bundleIdentifier": "nl.jknaapen.fladder",
+      "developerName": "DonutWare",
+      "subtitle": "Jellyfin Client für iOS",
+      "localizedDescription": "Ein moderner, flüssiger Flutter-Client für Jellyfin.",
+      "iconURL": "https://raw.githubusercontent.com/DonutWare/Fladder/main/icons/fladder_macos_icon.png",
+      "tintColor": "#3A2101",
+      "owner": "DonutWare",
+      "repo": "Fladder",
+      "ipa_pattern": "Fladder-iOS.*\\.ipa",
+      "max_versions": 5
+    }
+  ],
+  "upstream_sources": [
+    "https://github.com/dvntm0/AltStore/raw/refs/heads/main/repo.json"
+  ]
+}
