@@ -1,7 +1,7 @@
 {
   "name": "Personal Store",
   "identifier": "com.kaiser.personalstore",
-  "subtitle": "Fladder & Dan's Workshop Apps",
+  "subtitle": "Fladder, Dan's Workshop & Reddit Mods",
   "github_releases": [
     {
       "name": "Fladder",
@@ -15,9 +15,23 @@
       "repo": "Fladder",
       "ipa_pattern": "Fladder-iOS.*\\.ipa",
       "max_versions": 5
+    },
+    {
+      "name": "Reddit (No Ads)",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "level3tjg",
+      "subtitle": "Offizielle App ohne Werbung & Promos",
+      "localizedDescription": "Die offizielle Reddit-App modifiziert mit RedditFilter. Entfernt alle gesponserten Werbe-Posts, Banner und Tracking, inklusive Fix für Sideloaded-Logins.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
+      "tintColor": "#FF4500",
+      "owner": "level3tjg",
+      "repo": "RedditFilter",
+      "ipa_pattern": "RedditFilter_.*\\.ipa",
+      "max_versions": 3
     }
   ],
   "upstream_sources": [
-    "https://github.com/dvntm0/AltStore/raw/refs/heads/main/repo.json"
+    "https://github.com/dvntm0/AltStore/raw/refs/heads/main/repo.json",
+    "https://raw.githubusercontent.com/Apollo-Reborn/Apollo-Reborn/main/apps.json"
   ]
 }
