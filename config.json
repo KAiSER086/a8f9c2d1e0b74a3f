@@ -17,16 +17,16 @@
       "max_versions": 5
     },
     {
-      "name": "Reddit (No Ads)",
+      "name": "Reddit Deluxe",
       "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "level3tjg",
-      "subtitle": "Offizielle App ohne Werbung & Promos",
-      "localizedDescription": "Die offizielle Reddit-App modifiziert mit RedditFilter. Entfernt alle gesponserten Werbe-Posts, Banner und Tracking, inklusive Fix für Sideloaded-Logins.",
+      "developerName": "surrel14",
+      "subtitle": "Offizielle App ohne Werbung (RedditDeluxe)",
+      "localizedDescription": "Aktuelles RedditDeluxe mit RedditFilter. Entfernt alle gesponserten Werbe-Posts, Banner und Tracking, inklusive Fix für Sideloaded-Logins.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
       "tintColor": "#FF4500",
-      "owner": "level3tjg",
+      "owner": "surrel14",
       "repo": "RedditFilter",
-      "ipa_pattern": "RedditFilter_.*\\.ipa",
+      "ipa_pattern": "RedditDeluxe_.*\\.ipa",
       "max_versions": 3
     }
   ],

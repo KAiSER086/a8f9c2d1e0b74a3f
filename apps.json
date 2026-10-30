@@ -50,34 +50,34 @@
       ]
     },
     {
-      "name": "Reddit (No Ads)",
+      "name": "Reddit Deluxe",
       "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "level3tjg",
-      "subtitle": "Offizielle App ohne Werbung & Promos",
-      "localizedDescription": "Die offizielle Reddit-App modifiziert mit RedditFilter. Entfernt alle gesponserten Werbe-Posts, Banner und Tracking, inklusive Fix für Sideloaded-Logins.",
+      "developerName": "surrel14",
+      "subtitle": "Offizielle App ohne Werbung (RedditDeluxe)",
+      "localizedDescription": "Aktuelles RedditDeluxe mit RedditFilter. Entfernt alle gesponserten Werbe-Posts, Banner und Tracking, inklusive Fix für Sideloaded-Logins.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
       "tintColor": "#FF4500",
       "versions": [
         {
-          "version": "2025.37.0-1.1.8",
-          "date": "2025-09-26",
-          "size": 137114565,
-          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
-          "localizedDescription": "# RedditFilter v2025.37.0-1.1.8\r\n\r\n## Changes\r\n\r\n- Fix app crash (@NicholasBly)\r\n- Fix ad comments showing under posts (@Laitinlok)\r\n- Fix popular feed not showing with recommendations disabled\r\n- Move RedditFilter settings to the user drawer / side bar (accessed by tapping the profile picture in th"
+          "version": "2026.40.0",
+          "date": "2026-10-07",
+          "size": 139614818,
+          "downloadURL": "https://github.com/surrel14/RedditFilter/releases/download/v2026.40.0/RedditDeluxe_v2026.40.0.ipa",
+          "localizedDescription": "Reddit Deluxe 2026.40.0"
         },
         {
-          "version": "2025.07.1-1.1.7",
-          "date": "2025-02-27",
-          "size": 139065345,
-          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa",
-          "localizedDescription": "# RedditFilter v2025.07.1-1.1.7\r\n\r\n## Changes\r\n\r\n- Fixed feed filter settings not appearing in app settings\r\n- Fixed missing feed filter settings icon\r\n- Fixed some recommendations still showing up in the home feed"
+          "version": "2026.39.0",
+          "date": "2026-09-30",
+          "size": 138945061,
+          "downloadURL": "https://github.com/surrel14/RedditFilter/releases/download/v2026.39.0/RedditDeluxe_v2026.39.0.ipa",
+          "localizedDescription": "Reddit Deluxe 2026.39.0"
         },
         {
-          "version": "2024.44.2-1.1.6",
-          "date": "2024-11-04",
-          "size": 155673791,
-          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.44.2-1.1.6/RedditFilter_2024.44.2-1.1.6.ipa",
-          "localizedDescription": "# RedditFilter v2024.44.2-1.1.6\r\n\r\n## Changes\r\n\r\n- Fixed \"Incorrect username or password\" error when logging in with correct username and password"
+          "version": "2026.32.2",
+          "date": "2026-08-15",
+          "size": 137491610,
+          "downloadURL": "https://github.com/surrel14/RedditFilter/releases/download/v2026.32.2/RedditDeluxe_v2026.32.2.ipa",
+          "localizedDescription": "Holf 3 fingers for RedditFilter menu"
         }
       ]
     },
