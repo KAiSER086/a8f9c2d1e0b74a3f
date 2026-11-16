@@ -13,6 +13,13 @@
       "tintColor": "#3A2101",
       "versions": [
         {
+          "version": "0.12.0",
+          "date": "2026-11-15",
+          "size": 36759408,
+          "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.12.0/Fladder-iOS-0.12.0.ipa",
+          "localizedDescription": "## 📋 What's Changed\r\n\r\nThis was supposed to be a small release that improves performance for low-end devices I swear.\r\n\r\n## Performance Improvements\r\nFladder now checks the device available RAM and adjusts accordingly disabling things that might overfill the memory, all of this can be tweaked later"
+        },
+        {
           "version": "0.11.1",
           "date": "2026-09-08",
           "size": 41137245,
@@ -39,13 +46,6 @@
           "size": 40070829,
           "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.10.2/Fladder-iOS-0.10.2.ipa",
           "localizedDescription": "<!-- Release notes generated using configuration in .github/release.yml at v0.10.2 -->\r\n\r\n## What's Changed\r\nCreate and share a authentication login QR-Code/link, allowing users to login easier.\r\nGo to Control Panel -> Users -> Right-click or long press on a user to create a auth link.\r\n\r\nImplemente"
-        },
-        {
-          "version": "0.10.1",
-          "date": "2026-02-21",
-          "size": 39964764,
-          "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.10.1/Fladder-iOS-0.10.1.ipa",
-          "localizedDescription": "<!-- Release notes generated using configuration in .github/release.yml at v0.10.1 -->\r\n## What's Changed\r\n\r\n## Live TV support\r\nInitial implementation of live TV. \r\nThis implementation focuses mainly on playback and the TV Guide interface. \r\n\r\n## Gesture support\r\nAdded support for a few gestures th"
         }
       ]
     },
