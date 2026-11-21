@@ -13,6 +13,13 @@
       "tintColor": "#3A2101",
       "versions": [
         {
+          "version": "0.12.1",
+          "date": "2026-11-20",
+          "size": 36768050,
+          "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.12.1/Fladder-iOS-0.12.1.ipa",
+          "localizedDescription": "## 📋 What's Changed\r\n\r\n>INFO\r\n0.12.1 is a hot-fix for Linux users, specifically those using Nvidia gpus. Flutter contained a bug causing the screen to render at 1/4 of the actual window size. Other platforms remain the same as 0.12.0\r\n\r\nThis was supposed to be a small release that improves performan"
+        },
+        {
           "version": "0.12.0",
           "date": "2026-11-15",
           "size": 36759408,
@@ -39,13 +46,6 @@
           "size": 40205180,
           "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.10.3/Fladder-iOS-0.10.3.ipa",
           "localizedDescription": "<!-- Release notes generated using configuration in .github/release.yml at v0.10.3 -->\r\n\r\n## What's Changed\r\nThis release adds a lot of small nice to have features, but also quite a few bug-fixes.\r\n\r\n### Transcoded downloads\r\nYou can now select the quality options that are used for download/syncing"
-        },
-        {
-          "version": "0.10.2",
-          "date": "2026-03-08",
-          "size": 40070829,
-          "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.10.2/Fladder-iOS-0.10.2.ipa",
-          "localizedDescription": "<!-- Release notes generated using configuration in .github/release.yml at v0.10.2 -->\r\n\r\n## What's Changed\r\nCreate and share a authentication login QR-Code/link, allowing users to login easier.\r\nGo to Control Panel -> Users -> Right-click or long press on a user to create a auth link.\r\n\r\nImplemente"
         }
       ]
     },
